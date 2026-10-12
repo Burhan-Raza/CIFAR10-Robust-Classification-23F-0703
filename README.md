@@ -1,6 +1,6 @@
 # Robust CIFAR-10 Classification with 500 Training Images
 
-Deep Learning for Perception, Assignment 2, Section B (Fall 2026)
+Deep Learning for Perception, Assignment 2,(Fall 2026)
 Roll No: 23F-0703
 
 Train a small CNN with an Inception module from scratch on 500 CIFAR-10 images (400 train / 100 validation) and test it on a corrupted ("shifted") version of the CIFAR-10 test set.
@@ -9,7 +9,7 @@ Train a small CNN with an Inception module from scratch on 500 CIFAR-10 images (
 
 | File | Description |
 |---|---|
-| `DL_ASS01_23F_0703.ipynb` | Complete, executed notebook (Parts A to F, all outputs visible) |
+| `DL_ASS02_23F_0703.ipynb` | Complete, executed notebook (Parts A to F, all outputs visible) |
 | `requirements.txt` | Python packages needed |
 | `README.md` | This file |
 
